@@ -1,0 +1,238 @@
+[17/Feb/2020:04:43:45] (index) Transport from F6 down to F1
+[17/Feb/2020:04:43:45] (index) Transport from F5 up to F7
+[17/Feb/2020:04:43:45] (index) Transport from F3 down to F1
+[17/Feb/2020:04:43:45] (index) In F1
+[17/Feb/2020:04:43:45] (index) Open door at F1
+[17/Feb/2020:04:43:45] (index) Close door at F1
+[17/Feb/2020:04:43:45] (index) Move up F2
+
+[17/Feb/2020:04:43:45] (index) In F2
+[17/Feb/2020:04:43:45] (index) Move up F3
+
+[17/Feb/2020:04:43:45] (index) In F3
+[17/Feb/2020:04:43:45] (index) Move up F4
+
+[17/Feb/2020:04:43:45] (index) In F4
+[17/Feb/2020:04:43:45] (index) Move up F5
+
+[17/Feb/2020:04:43:46] (index) In F5
+[17/Feb/2020:04:43:46] (index) Open door at F5
+[17/Feb/2020:04:43:46] (index) Close door at F5
+[17/Feb/2020:04:43:46] (index) Move up F6
+
+[17/Feb/2020:04:43:46] (index) In F6
+[17/Feb/2020:04:43:46] (index) Move up F7
+
+[17/Feb/2020:04:43:46] (index) In F7
+[17/Feb/2020:04:43:46] (index) Open door at F7
+[17/Feb/2020:04:43:46] (index) Close door at F7
+[17/Feb/2020:04:43:46] (index) Switch direction from up to 
+[17/Feb/2020:04:43:46] (index) Move down F6
+
+[17/Feb/2020:04:43:46] (index) In F6
+[17/Feb/2020:04:43:46] (index) Open door at F6
+[17/Feb/2020:04:43:46] (index) Close door at F6
+[17/Feb/2020:04:43:46] (index) Move down F5
+
+[17/Feb/2020:04:43:46] (index) In F5
+[17/Feb/2020:04:43:46] (index) Move down F4
+
+[17/Feb/2020:04:43:46] (index) In F4
+[17/Feb/2020:04:43:46] (index) Move down F3
+
+[17/Feb/2020:04:43:46] (index) In F3
+[17/Feb/2020:04:43:46] (index) Open door at F3
+[17/Feb/2020:04:43:46] (index) Close door at F3
+[17/Feb/2020:04:43:46] (index) Elevator stand at F3
+
+[17/Feb/2020:04:44:28] (index) Transport from F6 down to F1
+[17/Feb/2020:04:44:28] (index) Transport from F5 up to F7
+[17/Feb/2020:04:44:28] (index) Transport from F3 down to F1
+[17/Feb/2020:04:44:28] (index) In F1
+[17/Feb/2020:04:44:28] (index) Open door at F1
+[17/Feb/2020:04:44:28] (index) Close door at F1
+[17/Feb/2020:04:44:28] (index) Move up F2<br />==========
+[17/Feb/2020:04:44:28] (index) In F2
+[17/Feb/2020:04:44:28] (index) Move up F3<br />==========
+[17/Feb/2020:04:44:28] (index) In F3
+[17/Feb/2020:04:44:28] (index) Move up F4<br />==========
+[17/Feb/2020:04:44:28] (index) In F4
+[17/Feb/2020:04:44:28] (index) Move up F5<br />==========
+[17/Feb/2020:04:44:28] (index) In F5
+[17/Feb/2020:04:44:28] (index) Open door at F5
+[17/Feb/2020:04:44:28] (index) Close door at F5
+[17/Feb/2020:04:44:28] (index) Move up F6<br />==========
+[17/Feb/2020:04:44:28] (index) In F6
+[17/Feb/2020:04:44:28] (index) Move up F7<br />==========
+[17/Feb/2020:04:44:28] (index) In F7
+[17/Feb/2020:04:44:28] (index) Open door at F7
+[17/Feb/2020:04:44:28] (index) Close door at F7
+[17/Feb/2020:04:44:28] (index) Switch direction from up to 
+[17/Feb/2020:04:44:28] (index) Move down F6<br />==========
+[17/Feb/2020:04:44:28] (index) In F6
+[17/Feb/2020:04:44:28] (index) Open door at F6
+[17/Feb/2020:04:44:28] (index) Close door at F6
+[17/Feb/2020:04:44:28] (index) Move down F5<br />==========
+[17/Feb/2020:04:44:28] (index) In F5
+[17/Feb/2020:04:44:28] (index) Move down F4<br />==========
+[17/Feb/2020:04:44:28] (index) In F4
+[17/Feb/2020:04:44:28] (index) Move down F3<br />==========
+[17/Feb/2020:04:44:28] (index) In F3
+[17/Feb/2020:04:44:28] (index) Open door at F3
+[17/Feb/2020:04:44:28] (index) Close door at F3
+[17/Feb/2020:04:44:28] (index) Elevator stand at F3<br />==========
+[17/Feb/2020:04:45:06] (index) Transport from F6 down to F1
+[17/Feb/2020:04:45:06] (index) Transport from F5 up to F7
+[17/Feb/2020:04:45:06] (index) Transport from F3 down to F1
+[17/Feb/2020:04:45:06] (index) In F1
+[17/Feb/2020:04:45:06] (index) Open door at F1
+[17/Feb/2020:04:45:06] (index) Close door at F1
+[17/Feb/2020:04:45:06] (index) Move up F2<br />
+[17/Feb/2020:04:45:06] (index) In F2
+[17/Feb/2020:04:45:06] (index) Move up F3<br />
+[17/Feb/2020:04:45:06] (index) In F3
+[17/Feb/2020:04:45:06] (index) Move up F4<br />
+[17/Feb/2020:04:45:06] (index) In F4
+[17/Feb/2020:04:45:06] (index) Move up F5<br />
+[17/Feb/2020:04:45:06] (index) In F5
+[17/Feb/2020:04:45:06] (index) Open door at F5
+[17/Feb/2020:04:45:06] (index) Close door at F5
+[17/Feb/2020:04:45:06] (index) Move up F6<br />
+[17/Feb/2020:04:45:06] (index) In F6
+[17/Feb/2020:04:45:06] (index) Move up F7<br />
+[17/Feb/2020:04:45:06] (index) In F7
+[17/Feb/2020:04:45:06] (index) Open door at F7
+[17/Feb/2020:04:45:06] (index) Close door at F7
+[17/Feb/2020:04:45:06] (index) Switch direction from up to 
+[17/Feb/2020:04:45:06] (index) Move down F6<br />
+[17/Feb/2020:04:45:06] (index) In F6
+[17/Feb/2020:04:45:06] (index) Open door at F6
+[17/Feb/2020:04:45:06] (index) Close door at F6
+[17/Feb/2020:04:45:06] (index) Move down F5<br />
+[17/Feb/2020:04:45:06] (index) In F5
+[17/Feb/2020:04:45:06] (index) Move down F4<br />
+[17/Feb/2020:04:45:06] (index) In F4
+[17/Feb/2020:04:45:06] (index) Move down F3<br />
+[17/Feb/2020:04:45:06] (index) In F3
+[17/Feb/2020:04:45:06] (index) Open door at F3
+[17/Feb/2020:04:45:06] (index) Close door at F3
+[17/Feb/2020:04:45:06] (index) Elevator stand at F3<br />
+[17/Feb/2020:04:45:25] (index) Transport from F6 down to F1
+[17/Feb/2020:04:45:25] (index) Transport from F5 up to F7
+[17/Feb/2020:04:45:25] (index) Transport from F3 down to F1
+[17/Feb/2020:04:45:25] (index) In F1
+[17/Feb/2020:04:45:25] (index) Open door at F1
+[17/Feb/2020:04:45:25] (index) Close door at F1
+[17/Feb/2020:04:45:25] (index) Move up F2<br />
+[17/Feb/2020:04:45:25] (index) In F2
+[17/Feb/2020:04:45:25] (index) Move up F3<br />
+[17/Feb/2020:04:45:25] (index) In F3
+[17/Feb/2020:04:45:25] (index) Move up F4<br />
+[17/Feb/2020:04:45:25] (index) In F4
+[17/Feb/2020:04:45:25] (index) Move up F5<br />
+[17/Feb/2020:04:45:25] (index) In F5
+[17/Feb/2020:04:45:25] (index) Open door at F5
+[17/Feb/2020:04:45:25] (index) Close door at F5
+[17/Feb/2020:04:45:25] (index) Move up F6<br />
+[17/Feb/2020:04:45:25] (index) In F6
+[17/Feb/2020:04:45:25] (index) Move up F7<br />
+[17/Feb/2020:04:45:25] (index) In F7
+[17/Feb/2020:04:45:25] (index) Open door at F7
+[17/Feb/2020:04:45:25] (index) Close door at F7
+[17/Feb/2020:04:45:25] (index) Switch direction from up to 
+[17/Feb/2020:04:45:25] (index) Move down F6<br />
+[17/Feb/2020:04:45:25] (index) In F6
+[17/Feb/2020:04:45:25] (index) Open door at F6
+[17/Feb/2020:04:45:25] (index) Close door at F6
+[17/Feb/2020:04:45:25] (index) Move down F5<br />
+[17/Feb/2020:04:45:25] (index) In F5
+[17/Feb/2020:04:45:25] (index) Move down F4<br />
+[17/Feb/2020:04:45:25] (index) In F4
+[17/Feb/2020:04:45:25] (index) Move down F3<br />
+[17/Feb/2020:04:45:25] (index) In F3
+[17/Feb/2020:04:45:25] (index) Open door at F3
+[17/Feb/2020:04:45:25] (index) Close door at F3
+[17/Feb/2020:04:45:25] (index) Elevator stand at F3<br />==========
+[17/Feb/2020:04:45:35] (index) Transport from F6 down to F1
+[17/Feb/2020:04:45:35] (index) Transport from F5 up to F7
+[17/Feb/2020:04:45:35] (index) Transport from F3 down to F1
+[17/Feb/2020:04:45:35] (index) In F1
+[17/Feb/2020:04:45:35] (index) Open door at F1
+[17/Feb/2020:04:45:35] (index) Close door at F1
+[17/Feb/2020:04:45:35] (index) Move up F2<br />==========
+[17/Feb/2020:04:45:35] (index) In F2
+[17/Feb/2020:04:45:35] (index) Move up F3<br />==========
+[17/Feb/2020:04:45:35] (index) In F3
+[17/Feb/2020:04:45:35] (index) Move up F4<br />==========
+[17/Feb/2020:04:45:35] (index) In F4
+[17/Feb/2020:04:45:35] (index) Move up F5<br />==========
+[17/Feb/2020:04:45:35] (index) In F5
+[17/Feb/2020:04:45:35] (index) Open door at F5
+[17/Feb/2020:04:45:35] (index) Close door at F5
+[17/Feb/2020:04:45:35] (index) Move up F6<br />==========
+[17/Feb/2020:04:45:35] (index) In F6
+[17/Feb/2020:04:45:35] (index) Move up F7<br />==========
+[17/Feb/2020:04:45:35] (index) In F7
+[17/Feb/2020:04:45:35] (index) Open door at F7
+[17/Feb/2020:04:45:35] (index) Close door at F7
+[17/Feb/2020:04:45:35] (index) Switch direction from up to 
+[17/Feb/2020:04:45:35] (index) Move down F6<br />==========
+[17/Feb/2020:04:45:35] (index) In F6
+[17/Feb/2020:04:45:35] (index) Open door at F6
+[17/Feb/2020:04:45:35] (index) Close door at F6
+[17/Feb/2020:04:45:35] (index) Move down F5<br />==========
+[17/Feb/2020:04:45:35] (index) In F5
+[17/Feb/2020:04:45:35] (index) Move down F4<br />==========
+[17/Feb/2020:04:45:35] (index) In F4
+[17/Feb/2020:04:45:35] (index) Move down F3<br />==========
+[17/Feb/2020:04:45:35] (index) In F3
+[17/Feb/2020:04:45:35] (index) Open door at F3
+[17/Feb/2020:04:45:35] (index) Close door at F3
+[17/Feb/2020:04:45:35] (index) Elevator stand at F3<br />
+[17/Feb/2020:04:49:42] (index) Transport from F6 down to F1
+[17/Feb/2020:04:49:42] (index) Transport from F5 up to F7
+[17/Feb/2020:04:49:42] (index) Transport from F3 down to F1
+[17/Feb/2020:04:49:42] (index) In F1
+[17/Feb/2020:04:49:42] (index) Open door at F1
+[17/Feb/2020:04:49:42] (index) Close door at F1
+[17/Feb/2020:04:49:42] (index) Move up F2
+ ==========
+[17/Feb/2020:04:49:42] (index) In F2
+[17/Feb/2020:04:49:42] (index) Move up F3
+ ==========
+[17/Feb/2020:04:49:42] (index) In F3
+[17/Feb/2020:04:49:42] (index) Move up F4
+ ==========
+[17/Feb/2020:04:49:42] (index) In F4
+[17/Feb/2020:04:49:42] (index) Move up F5
+ ==========
+[17/Feb/2020:04:49:42] (index) In F5
+[17/Feb/2020:04:49:42] (index) Open door at F5
+[17/Feb/2020:04:49:42] (index) Close door at F5
+[17/Feb/2020:04:49:42] (index) Move up F6
+ ==========
+[17/Feb/2020:04:49:42] (index) In F6
+[17/Feb/2020:04:49:42] (index) Move up F7
+ ==========
+[17/Feb/2020:04:49:42] (index) In F7
+[17/Feb/2020:04:49:42] (index) Open door at F7
+[17/Feb/2020:04:49:42] (index) Close door at F7
+[17/Feb/2020:04:49:42] (index) Switch direction from up to 
+[17/Feb/2020:04:49:42] (index) Move down F6
+ ==========
+[17/Feb/2020:04:49:42] (index) In F6
+[17/Feb/2020:04:49:42] (index) Open door at F6
+[17/Feb/2020:04:49:42] (index) Close door at F6
+[17/Feb/2020:04:49:42] (index) Move down F5
+ ==========
+[17/Feb/2020:04:49:42] (index) In F5
+[17/Feb/2020:04:49:42] (index) Move down F4
+ ==========
+[17/Feb/2020:04:49:42] (index) In F4
+[17/Feb/2020:04:49:42] (index) Move down F3
+ ==========
+[17/Feb/2020:04:49:42] (index) In F3
+[17/Feb/2020:04:49:42] (index) Open door at F3
+[17/Feb/2020:04:49:42] (index) Close door at F3
+[17/Feb/2020:04:49:42] (index) Elevator stand at F3
+
